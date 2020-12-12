@@ -14,5 +14,3 @@ jobs:
     steps:
       run: ./configure
       run: make
-      run: make check
-      run: make distcheck
