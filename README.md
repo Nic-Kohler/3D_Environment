@@ -1,12 +1,12 @@
 # 3D Environment
 
-W&emsp;= Forward
+W&emsp;&emsp;= Forward
 <br>
-S&emsp;= Back
+S&emsp;&emsp;= Back
 <br>
-A&emsp;= Step Left
+A&emsp;&emsp;= Step Left
 <br>
-D&emsp;= Step Right
+D&emsp;&emsp;= Step Right
 <br>
 ESC&emsp;= Close
 <br>
