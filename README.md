@@ -2,11 +2,11 @@
 
 W&emsp;&emsp;= Forward
 <br>
-S&emsp;&emsp;= Back
+S&emsp;&emsp; = Back
 <br>
-A&emsp;&emsp;= Step Left
+A&emsp;&emsp; = Step Left
 <br>
-D&emsp;&emsp;= Step Right
+D&emsp;&emsp; = Step Right
 <br>
 ESC&emsp;= Close
 <br>
