@@ -1,8 +1,8 @@
 # 3D Environment
 
-W&#9;= Forward
+W&emsp;= Forward
 <br>
-S&#9;= Back
+S&emsp;= Back
 <br>
 A&#9;= Step Left
 <br>
