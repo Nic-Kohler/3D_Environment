@@ -1,14 +1,14 @@
 # 3D Environment
 
-W   = Forward
+W&#9;= Forward
 <br>
-S   = Back
+S&#9;= Back
 <br>
-A   = Step Left
+A&#9;= Step Left
 <br>
-D   = Step Right
+D&#9;= Step Right
 <br>
-ESC = Close
+ESC&#9;= Close
 <br>
 Mouse Look
 <br>
