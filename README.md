@@ -4,11 +4,11 @@ W&emsp;= Forward
 <br>
 S&emsp;= Back
 <br>
-A&#9;= Step Left
+A&emsp;= Step Left
 <br>
-D&#9;= Step Right
+D&emsp;= Step Right
 <br>
-ESC&#9;= Close
+ESC&emsp;= Close
 <br>
 Mouse Look
 <br>
