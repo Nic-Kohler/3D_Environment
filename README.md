@@ -1,5 +1,7 @@
 # 3D Environment
 
+<p>A simple three dimensional environment.</p> 
+
 W&emsp;&emsp;= Forward
 <br>
 S&emsp;&emsp; = Back
